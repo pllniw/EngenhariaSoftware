@@ -67,7 +67,6 @@ São reuniões diárias feitas para recapitular o que foi feito no dia anterior 
 É o momento que a equipe faz uma retrospectiva do sprint e avalia como tudo ocorreu.
 
 ## 🎯 Kanban
-(Explique o funcionamento do Kanban e sua aplicação.)
 O método Kanban, criado por David Anderson, é uma estrutura usada para implementar o desenvolvimento de software Ágil e de DevOps. Grande parte de sua estrutura envolve comunicação de capacidade de tempo real e transparência total de trabalho. Nessa metodologia, tem o quadro Kanban, que é uma representação visual para que os membros da equipe possam visualizar a situação de cada parte do trabalho.
 Quadro Kanban é uma ferramenta de gerenciamento de projeto ágil que auxilia na visualização de trabalho, fazendo com que o fluxo do trabalho seja mais fluido e eficiente. O Kanban usa cartões, colunas e melhorias contínuas para ajudar as equipes de tecnologia e serviço a se comprometerem com a quantidade certa de trabalho e terminarem tudo dentro do prazo.
 
